@@ -1,2 +1,2 @@
 # Algoritmica
-Aqui habra material de algoritmica 1 y 2
+Aqui habra material de algoritmica para acordarme en un futuro
