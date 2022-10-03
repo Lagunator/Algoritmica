@@ -1,6 +1,6 @@
 # Algoritmica
 $$Jhosias Laguna/
-Ingenieria de Sistemas computacionaeles/
+Ingenieria de Sistemas Computacionaeles/
 Algoritmica 2$$
 
 Acá podremos ver varios tipos de algoritmos muy utiles en nuestra vida profesional entonces
