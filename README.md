@@ -10,5 +10,8 @@ veremos en que caso usar cada cual y sus pros y sus contras
 ### 1: Trie ###
 😲[Click para aprender](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Trie)
 ### 2: Union FInd ###
+🤕[Click para aprobar](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Union%20Find)
 ### 3: Segment Tree ###
+🤮[Click por si acaso]
 ### 4: Bit ###
+🧠[Esta dificil pero se puede]
