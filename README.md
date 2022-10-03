@@ -3,8 +3,7 @@ $$Jhosias Laguna/
 Ingenieria de Sistemas Computacionaeles/
 Algoritmica 2$$
 
-Acá podremos ver varios tipos de algoritmos muy utiles en nuestra vida profesional entonces
-veremos en que caso usar cada cual y sus pros y sus contras
+Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en capitulos segun el orden del avance
 
 # Capítulo 1 (Entrando al infierno)
 ### 1: Trie ###
