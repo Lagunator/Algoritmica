@@ -12,6 +12,6 @@ veremos en que caso usar cada cual y sus pros y sus contras
 ### 2: Union FInd ###
 🤕[Click para aprobar](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Union%20Find)
 ### 3: Segment Tree ###
-🤮[Click por si acaso]
+🤮[Click por si acaso](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Segment%20Tree)
 ### 4: Bit ###
-🧠[Esta dificil pero se puede]
+🧠[Esta dificil pero se puede](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Bit)
