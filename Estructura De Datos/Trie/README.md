@@ -10,7 +10,8 @@ Cuando hacemos en codigo podemos usar arrays o mapas. Cuando usemos mapas no pod
 ![image](https://user-images.githubusercontent.com/102009436/193949788-a30ae70a-31f3-407b-8d6e-653f8edd9d18.png)
 
 ### Variantes
-- 
+- Suffix Trie
+- Método Delete
 
 ### Bibliografia 
 [Teoria](https://oiaunlam.wordpress.com/2016/05/02/trie/)
