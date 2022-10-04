@@ -6,6 +6,9 @@ La iniciativa del Trie es armar un árbol, donde los nodos son las letras de las
 En lo que mas destaca Trie es en hacer busquedas de una manera muy aceptable que seria con una complejidad lineal o casi lineal, obviamente que depende de las restricciones del problema.
 Cuando hacemos en codigo podemos usar arrays o mapas. Cuando usemos mapas no podriamos tener ningun nodo en nulo y si usamos el array los caracteres se separaran y generaran nodos en nulo, de alguna manera sera más rápida la búsqueda pero usaremos más memoria.
 
+![image](https://user-images.githubusercontent.com/102009436/193949788-a30ae70a-31f3-407b-8d6e-653f8edd9d18.png)
+
+
 ### Bibliografia 
 [Teoria](https://oiaunlam.wordpress.com/2016/05/02/trie/)
 
