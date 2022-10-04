@@ -79,16 +79,16 @@ void trieDelete(string word) {
 int main() {
   init();
   /*
-    insertWord("alejandro");
-    isThereWord("alejandro"); 
-    insertWord("adrian");
-    isThereWord("adrian");
-    insertWord("andrea");
-    isThereWord("andrea");
-    trieDelete("alejandro");
-    trieDelete("adrian");
-    isThereWord("alejandro");
-    isThereWord("adrian");
+    insertWord("anakin");
+    isThereWord("anakin"); 
+    insertWord("ana");
+    isThereWord("ana");
+    insertWord("ale");
+    isThereWord("ale");
+    trieDelete("ramon");
+    trieDelete("ana");
+    isThereWord("ramon");
+    isThereWord("ana");
     */
     insertWord("hola");
     insertWord("holas");
