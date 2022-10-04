@@ -14,3 +14,5 @@ Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en
 🤮[Click por si acaso](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Segment%20Tree)
 ### 4: Bit ###
 🧠[Esta dificil pero se puede](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Bit)
+### 5: Backtraking ###
+:( [No hay link papu]
