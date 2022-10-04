@@ -8,4 +8,5 @@ Cuando hacemos en codigo podemos usar arrays o mapas. Cuando usemos mapas no pod
 
 ### Bibliografia 
 [Teoria](https://oiaunlam.wordpress.com/2016/05/02/trie/)
-[Video clave] (https://www.youtube.com/watch?v=-urNrIAQnNo)
+
+[Video clave](https://www.youtube.com/watch?v=-urNrIAQnNo)
