@@ -17,4 +17,4 @@ Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en
 
 # Capítulo 2 (Dentro del infierno)
 ### 5: Backtraking ###
-:( [No hay link papu]
+👻[Entendible](https://github.com/Lagunator/Algoritmica/tree/main/Capitulo2/Backtracking)
