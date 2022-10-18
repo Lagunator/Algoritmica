@@ -19,8 +19,12 @@ Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en
 ### 5: Backtraking ###
 👻[Entendible](https://github.com/Lagunator/Algoritmica/tree/main/Capitulo2/Backtracking)
 
-# Capítulo 3 (Teoría de Grafos)
-### 6: Algoritmo de Kruskal
+# Capítulo 3 
+### 6: Dynamic Programming
 
 
-### 7: Algoritmo Prim
+# Capítulo 4 (Teoría de Grafos)
+### 7: Algoritmo de Kruskal
+
+
+### 8: Algoritmo Prim
