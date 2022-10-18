@@ -7,7 +7,7 @@ Hay varios tipos de inconvenientes que piden contar el número de completos ' x 
 
 
 ### Código
-[Ver]()
+[Ver](https://github.com/Lagunator/Algoritmica/blob/main/Dynamic%20Programming/Digit%20DP/CodigoDDP.cpp)
 
 ### Bibliografia 
 [Teoria](https://www.geeksforgeeks.org/number-n-digits-non-decreasing-integers/)
