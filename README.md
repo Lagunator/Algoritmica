@@ -18,3 +18,8 @@ Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en
 # Capítulo 2 (Dentro del infierno)
 ### 5: Backtraking ###
 👻[Entendible](https://github.com/Lagunator/Algoritmica/tree/main/Capitulo2/Backtracking)
+
+# Capítulo 3 Teoría de Grafos (Seguimos en el infierno)
+### 6: Algoritmo de Kruskal
+
+### 7: Algoritmo Prim
