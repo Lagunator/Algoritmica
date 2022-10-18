@@ -7,9 +7,9 @@ Es un proceso algorítmico que los ingenieros y programadores utilizan para reso
 
 
 ### Problemas vistos
-- Digit DP
-- Subset Sum
-- Busqueda Binaria
+- [Digit DP]
+- [Subset Sum](https://github.com/Lagunator/Algoritmica/tree/main/Dynamic%20Programming/Subset%20Sum)
+- [Busqueda Binaria]
 
 
 
