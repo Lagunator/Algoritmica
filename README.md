@@ -21,10 +21,10 @@ Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en
 
 # Capítulo 3 
 ### 6: Dynamic Programming
-
+😳[Muy util](https://github.com/Lagunator/Algoritmica/blob/main/Dynamic%20Programming/README.md)
 
 # Capítulo 4 (Teoría de Grafos)
 ### 7: Algoritmo de Kruskal
-
+🦾[Click para aprender](https://github.com/Lagunator/Algoritmica/blob/main/Teoria%20de%20Grafos/README.md)
 
 ### 8: Algoritmo Prim
