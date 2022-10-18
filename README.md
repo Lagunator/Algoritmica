@@ -5,7 +5,7 @@ Algoritmica 2$$
 
 Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en capitulos segun el orden del avance
 
-# Capítulo 1 (Entrando al infierno)
+# Capítulo 1 (Estructura de datos)
 ### 1: Trie ###
 😲[Click para aprender](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Trie)
 ### 2: Union FInd ###
@@ -15,11 +15,12 @@ Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en
 ### 4: Bit ###
 🧠[Esta dificil pero se puede](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Bit)
 
-# Capítulo 2 (Dentro del infierno)
+# Capítulo 2 
 ### 5: Backtraking ###
 👻[Entendible](https://github.com/Lagunator/Algoritmica/tree/main/Capitulo2/Backtracking)
 
-# Capítulo 3 Teoría de Grafos (Seguimos en el infierno)
+# Capítulo 3 (Teoría de Grafos)
 ### 6: Algoritmo de Kruskal
+
 
 ### 7: Algoritmo Prim
