@@ -13,9 +13,11 @@ mínimo  árbol de expansión para uno de los componentes conectados
 4.El árbol de expansión mínima será encontrado cuando hayan sido seleccionados todos los vértices del grafo.
 
 ### Ejemplo 
+![image](https://user-images.githubusercontent.com/102009436/196336140-318cac06-7bbe-43e8-a2db-c840c5e978be.png)
 
 
 ### Codigo
+[Ver](https://github.com/Lagunator/Algoritmica/blob/main/Teoria%20de%20grafos/Prim/CodigoPrim)
 
 ### Bibliografia 
 [Teoria](https://www.monografias.com/trabajos87/monografia-algoritmo-prim/monografia-algoritmo-prim)
