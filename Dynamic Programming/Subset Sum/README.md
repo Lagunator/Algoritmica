@@ -8,8 +8,8 @@ que es un caso especial del Problema de la Mochila donde los pesos y los valores
 
 ![image](https://user-images.githubusercontent.com/102009436/196324118-ac732068-5a73-4b29-9d08-d43b9d2e5719.png)
 
-#Código
-[Click]()
+# Código
+[Click](https://github.com/Lagunator/Algoritmica/blob/main/Dynamic%20Programming/Subset%20Sum/CodigoSS.cpp)
 
 ### Bibliografia 
 [Teoria](https://es.scribd.com/document/365684561/El-Subset-Sum-Problem)
