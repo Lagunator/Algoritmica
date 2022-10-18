@@ -8,7 +8,7 @@ Cuando revisemos los elementos a la izquierda o la derecha, hacemos lo mismo: ve
 
 
 ### Código
-[Ver]()
+[Ver](https://github.com/Lagunator/Algoritmica/blob/main/Dynamic%20Programming/Busqueda%20Binaria/CodigoBB.cpp)
 
 ### Bibliografia 
 [Teoria](https://medium.com/@daniel.patrick.gil/b%C3%BAsqueda-binaria-dec386ad8525)
