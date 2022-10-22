@@ -28,4 +28,4 @@ Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en
 🦾[Click para aprender](https://github.com/Lagunator/Algoritmica/tree/main/Teoria%20de%20Grafos/Kruskal)
 
 ### 8: Algoritmo Prim
-😳[xd](https://github.com/Lagunator/Algoritmica/tree/main/Teoria%20de%20Grafos/Prim)
+😳[CLick para no olvidarse](https://github.com/Lagunator/Algoritmica/tree/main/Teoria%20de%20Grafos/Prim)
