@@ -17,7 +17,7 @@ mínimo  árbol de expansión para uno de los componentes conectados
 
 
 ### Codigo
-[Ver](https://github.com/Lagunator/Algoritmica/blob/main/Teoria%20de%20grafos/Prim/CodigoPrim)
+[Ver](https://github.com/Lagunator/Algoritmica/blob/main/Teoria%20de%20grafos/Prim/CodigoPrim.cpp)
 
 ### Bibliografia 
 [Teoria](https://www.monografias.com/trabajos87/monografia-algoritmo-prim/monografia-algoritmo-prim)
