@@ -25,10 +25,10 @@ Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en
 
 # Capítulo 4 (Teoría de Grafos)
 ### 7: Algoritmo de Kruskal
-🦾[Click para aprender](https://github.com/Lagunator/Algoritmica/tree/main/Teoria%20de%20Grafos/Kruskal)
+🦾[Click para aprender](https://github.com/Lagunator/Algoritmica/tree/main/Teoria%20de%20grafos/Kruskal)
 
 ### 8: Algoritmo Prim
-😳[CLick para no olvidarse](https://github.com/Lagunator/Algoritmica/tree/main/Teoria%20de%20Grafos/Prim)
+😳[CLick para no olvidarse](https://github.com/Lagunator/Algoritmica/tree/main/Teoria%20de%20grafos/Prim)
 
 # Algoritmos Investigacion
 🙄[Click para aprobar](https://github.com/Lagunator/Algoritmica/tree/main/Algoritmos%20Investigacion)
