@@ -31,4 +31,4 @@ Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en
 😳[CLick para no olvidarse](https://github.com/Lagunator/Algoritmica/tree/main/Teoria%20de%20grafos/Prim)
 
 # Algoritmos Investigacion
-🙄[Click para aprobar](https://github.com/Lagunator/Algoritmica/tree/main/Algoritmos%20Investigacion)
+🙄[Ver todos los algoritmos](https://github.com/Lagunator/Algoritmica/tree/main/Algoritmos%20Investigacion)
