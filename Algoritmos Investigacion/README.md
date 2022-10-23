@@ -50,7 +50,7 @@ precio | 1 5 8 9 10 17 17 20
 
 
 # Longest Increasing Subsequence.
-El problema de la subsecuencia creciente más extensa (Longest Increasing Subsequence) es descubrir una subsecuencia de una sucesión dada en la que los recursos de la subsecuencia se encuentren ordenados, de menor a más grande, y en la que la subsecuencia sea lo más extensa viable.
+El problema de la subsecuencia creciente más extensa (LIS) es descubrir una subsecuencia de una sucesión dada en la que los recursos de la subsecuencia se encuentren ordenados, de menor a más grande, y en la que la subsecuencia sea lo más extensa viable.
 Tenga presente que el problema se dirige especialmente subsecuencias que no requieren ser contiguos, o sea, no es necesario que las subsecuencias ocupen posiciones consecutivas en las secuencias originales.
 
 
