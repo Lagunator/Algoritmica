@@ -42,4 +42,5 @@ Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en
 
 # Ejercicios Juez
 👽[Primer Juez](https://github.com/Lagunator/Algoritmica/tree/main/Ejercicios%20Juez/Primer%20Juez)
+
 🤖[Segundo juez](https://github.com/Lagunator/Algoritmica/tree/main/Ejercicios%20Juez/Segundo%20Juez)
