@@ -28,4 +28,6 @@ Entonces, para resolver de la forma más eficiente y rápida posible esta lista 
 
 ### Bibliografia 
 [Teoria](https://www.tamps.cinvestav.mx/~ertello/gc/sesion01.pdf)
+[+Teoria](https://www.journals.elsevier.com/computational-geometry/editorial-board)
+[Ejemplos Interesantes](https://www.gaussianos.com/una-interesante-introduccion-a-la-geometria-computacional/)
 
