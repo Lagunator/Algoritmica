@@ -34,4 +34,4 @@ Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en
 🙄[Ver todos los algoritmos](https://github.com/Lagunator/Algoritmica/tree/main/Algoritmos%20Investigacion)
 
 # Capítulo 5 (Geometria Computacional)
-🎓[Todo lo que necesitas](https://www.youtube.com/watch?v=A6-naB_yghw)
+🎓[Todo lo que necesitas](https://github.com/Lagunator/Algoritmica/tree/main/GeometriaComp)
