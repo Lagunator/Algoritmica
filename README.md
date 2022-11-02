@@ -11,7 +11,7 @@ Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en
 ### 2: Union FInd ###
 🤕[Click para aprobar](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Union%20Find)
 ### 3: Segment Tree ###
-🤮[Click por si acaso](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Segment%20Tree)
+🤮[Click obligatorio](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Segment%20Tree)
 ### 4: Bit ###
 🧠[Esta dificil pero se puede](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Bit)
 
@@ -32,3 +32,6 @@ Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en
 
 # Algoritmos Investigacion
 🙄[Ver todos los algoritmos](https://github.com/Lagunator/Algoritmica/tree/main/Algoritmos%20Investigacion)
+
+# Capítulo 5 (Geometria Computacional)
+🎓[Todo lo que necesitas](https://www.youtube.com/watch?v=A6-naB_yghw)
