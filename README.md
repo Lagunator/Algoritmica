@@ -9,29 +9,29 @@ Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en
 ### 1: Trie ###
 😲[Click para aprender](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Trie)
 ### 2: Union FInd ###
-🤕[Click para aprobar](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Union%20Find)
+🤕[Click para aprender](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Union%20Find)
 ### 3: Segment Tree ###
-🤮[Click obligatorio](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Segment%20Tree)
+🤮[Click para aprender](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Segment%20Tree)
 ### 4: Bit ###
-🧠[Esta dificil pero se puede](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Bit)
+🧠[Click para aprender](https://github.com/Lagunator/Algoritmica/tree/main/Estructura%20De%20Datos/Bit)
 
 # Capítulo 2 
 ### 5: Backtraking ###
-👻[Entendible](https://github.com/Lagunator/Algoritmica/tree/main/Capitulo2/Backtracking)
+👻[Click para aprender](https://github.com/Lagunator/Algoritmica/tree/main/Capitulo2/Backtracking)
 
 # Capítulo 3 (Programación Dínamica)
-### 6: DP
-😳[Muy util](https://github.com/Lagunator/Algoritmica/blob/main/Dynamic%20Programming/README.md)
+### 6: Subset Sum - Digit DP - Binary search
+😳[Click para aprender](https://github.com/Lagunator/Algoritmica/blob/main/Dynamic%20Programming/README.md)
 
 # Capítulo 4 (Teoría de Grafos)
 ### 7: Algoritmo de Kruskal
 😨[Click para aprender](https://github.com/Lagunator/Algoritmica/tree/main/Teoria%20de%20grafos/Kruskal)
 ### 8: Algoritmo Prim
-😳[CLick para no olvidarse](https://github.com/Lagunator/Algoritmica/tree/main/Teoria%20de%20grafos/Prim)
+😳[Click para aprender](https://github.com/Lagunator/Algoritmica/tree/main/Teoria%20de%20grafos/Prim)
 ### 9: Algoritmo de Edmonds Karp
-🦾[Click necesario](https://github.com/Lagunator/Algoritmica/tree/main/Teoria%20de%20grafos/EdmondsKarp)
+🦾[Click para aprender](https://github.com/Lagunator/Algoritmica/tree/main/Teoria%20de%20grafos/EdmondsKarp)
 ### 10: Algoritmo de Ford Fulkerson
-☠️[Click si o si](https://github.com/Lagunator/Algoritmica/tree/main/Teoria%20de%20grafos/Ford%20Fulkerson)
+☠️[Click para aprender](https://github.com/Lagunator/Algoritmica/tree/main/Teoria%20de%20grafos/Ford%20Fulkerson)
 
 
 # Algoritmos Investigacion
