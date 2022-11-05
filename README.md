@@ -19,8 +19,8 @@ Acá podremos ver todo el contenido de la materia de algoritmica 2 dividiendo en
 ### 5: Backtraking ###
 👻[Entendible](https://github.com/Lagunator/Algoritmica/tree/main/Capitulo2/Backtracking)
 
-# Capítulo 3 
-### 6: Dynamic Programming
+# Capítulo 3 (Programación Dínamica)
+### 6: DP
 😳[Muy util](https://github.com/Lagunator/Algoritmica/blob/main/Dynamic%20Programming/README.md)
 
 # Capítulo 4 (Teoría de Grafos)
